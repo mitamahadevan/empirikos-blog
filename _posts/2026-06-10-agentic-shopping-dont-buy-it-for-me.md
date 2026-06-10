@@ -3,6 +3,7 @@ layout: post
 title: "Agentic Shopping: Don’t Buy It For Me"
 date: 2026-06-10
 ---
+
 Don’t Buy It for Me
 
 Why Agentic Shopping Should Enhance Discovery, Not Replace It
