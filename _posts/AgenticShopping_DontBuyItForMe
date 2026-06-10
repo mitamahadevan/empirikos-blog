@@ -1,0 +1,83 @@
+Don’t Buy It for Me
+
+Why Agentic Shopping Should Enhance Discovery, Not Replace It
+
+The term agentic commerce is often equated with fully autonomous shopping experiences: systems that search, compare, negotiate, and complete purchases on our behalf.
+
+That future may prove valuable for highly utilitarian tasks—reordering household essentials, replacing a broken appliance, or finding the cheapest flight. But the most compelling opportunity in agentic shopping lies elsewhere.
+
+Much of what we consider shopping is not a task to be outsourced. It is an experience people actively enjoy.
+
+Many shopping journeys begin with inspiration rather than certainty. We browse without a precise destination, collecting ideas, refining tastes, and imagining possibilities before narrowing our options. The process is shaped by aspiration, identity, context, and emotion as much as by functional need or budget.
+
+The journey itself is not friction to eliminate. It is often the source of delight.
+
+Having spent much of the last decade building and thinking about online search and recommendation systems, I increasingly see the industry moving from search-driven query fulfillment toward intent-driven mission support.
+
+Over the past decade, search systems evolved from lexical retrieval toward semantic understanding of expressed intent. Through embeddings, vector representations, and learned contextual relationships, we became dramatically better at understanding what users said and improving precision and recall beyond literal keyword matching.
+
+But commerce discovery is fundamentally different from knowledge retrieval.
+
+Many shopping journeys are not about retrieving a known answer. Users discover what they want through the interaction itself. Preferences emerge gradually. Taste becomes clearer through exposure, comparison, and elimination.
+
+Historically, digital commerce evolved around two distinct paradigms:
+
+* browse and discovery surfaces where users explored
+* search surfaces where users explicitly expressed intent
+
+Many retail sites reflect this distinction through separate home, category, and search experiences.
+
+That boundary is increasingly beginning to blur.
+
+The traditional assumption was that discovery happens in one place and intent expression happens somewhere else—typically the search box. But interactions within discovery are themselves a form of intent expression. Similarly, the actions users take within search results can initiate further discovery.
+
+Consider a user searching for a coffee table.
+
+A traditional commerce system treats this primarily as a retrieval problem: rank the best coffee tables based on relevance, popularity, price, and conversion likelihood.
+
+But the underlying mission may be much broader:
+
+* furnishing a first apartment
+* redesigning a minimalist living room
+* creating a child-friendly family space
+* building around an existing aesthetic or color palette
+
+The query is simply a starting point for a richer journey.
+
+Now imagine the user repeatedly engaging with walnut finishes, skipping over glass styles, refining toward natural wood palettes, or zooming in on rounded edges and modern organic aesthetics.
+
+Those interactions reveal far more than the original query itself.
+
+The opportunity is not simply to retrieve better products on the next search, but to help users shape and refine intent in real time:
+
+* explore adjacent styles and materials
+* deepen an emerging aesthetic
+* surface complementary pieces
+* adapt dynamically to evolving constraints and preferences
+* introduce unexpected but relevant inspiration
+
+The experience starts feeling less like issuing isolated queries and more like navigating through an ongoing process of discovery.
+
+In many ways, this mirrors what exceptional sales associates already do in physical retail environments. They observe reactions, infer context, understand preferences, and guide customers toward options aligned with their broader goals—while preserving the excitement of finding something that feels just right.
+
+Historically, recreating this kind of adaptive discovery digitally has been difficult. Most commerce systems were built around isolated query events, relatively sparse interaction signals, and architectures optimized for retrieval rather than evolving intent.
+
+LLMs and multimodal AI make richer interaction loops possible at scale. They can reason over broader context, incorporate both long-term preferences and in-session signals, and adapt as intent evolves.
+
+But this shift is not simply about adding a conversational chatbot to shopping experiences.
+
+If the future of agentic shopping is truly about supporting discovery and evolving intent, then we need to rethink the experience itself.
+
+The next generation of commerce interfaces may blur the traditional boundaries between browse and search. Discovery becomes a way to express intent. Search becomes a mechanism to refine discovery. A click, a save, a skip, a zoom, a visual comparison, or a change in navigation path may all become equally important forms of conversation.
+
+Multimodal interaction, in this context, is not limited to text, voice, or images. It encompasses the many subtle ways users reveal preferences as they explore.
+
+This creates an opportunity for innovation not only in the AI and machine learning systems that power retrieval, reasoning, and recommendations, but also in the UX paradigms through which users interact with them.
+
+The future of agentic shopping will not be defined by who builds the best chatbot.
+
+It will be defined by who reimagines how people discover, express, refine, and realize what they want.
+
+Because the most meaningful shopping experiences aren’t always the ones where an agent takes over completely.
+
+They are the ones where an agent helps us see possibilities we might never have found on our own.
