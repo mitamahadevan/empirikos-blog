@@ -2,6 +2,7 @@
 layout: post
 title: "Don't Buy It for Me: Why Agentic Shopping Should Enhance Discovery, Not Replace It"
 date: 2026-06-10
+permalink: /2026/06/10/agentic-shopping-dont-buy-it-for-me/
 categories: [commerce, ai, shopping]
 tags: [agentic shopping, commerce, search, recommendations, ai]
 excerpt: "The future of shopping isn't about delegating decisions to AI, but helping people discover what they actually want"
