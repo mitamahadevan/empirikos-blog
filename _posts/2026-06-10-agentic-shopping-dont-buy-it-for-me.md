@@ -4,7 +4,7 @@ title: "Don't Buy It for Me: Why Agentic Shopping Should Enhance Discovery, Not 
 date: 2026-06-10
 categories: [commerce, ai, shopping]
 tags: [agentic shopping, commerce, search, recommendations, ai]
-excerpt: "What if the future of shopping isn't about delegating decisions to AI, but helping people discover what they actually want?"
+excerpt: "The future of shopping isn't about delegating decisions to AI, but helping people discover what they actually want"
 ---
 
 # Don't Buy It for Me
