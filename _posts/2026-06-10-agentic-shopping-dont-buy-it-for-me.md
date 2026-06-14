@@ -32,4 +32,4 @@ As the user repeatedly engages with walnut finishes, dismisses glass styles, gra
 
 LLMs and multimodal AI capabilities make richer interaction loops possible at scale. But the opportunity is not simply to add conversational interfaces to shopping experiences. It is to fundamentally rethink both how commerce systems model intent and how user experiences evolve beyond static browse and search paradigms.
 
-The goal of agentic shopping is not to eliminate the journey altogether, but to make it more informed, adaptive, and enjoyable while helping users build confidence in their decisions. The future of agentic shopping will not be defined by who builds the best chatbot; it will be defined by who reimagines how people discover, express, refine, and ultimately realize what they want.
+The goal of agentic shopping is not to eliminate the journey altogether, but to make it more informed, adaptive, and enjoyable while helping users build confidence in their decisions. The future of AI-powered shopping will not be defined by building better chatbots, but by reimagining how people discover, express, refine, and ultimately realize what they want.
