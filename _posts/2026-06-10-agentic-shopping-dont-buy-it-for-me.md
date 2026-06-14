@@ -8,9 +8,7 @@ tags: [agentic shopping, commerce, search, recommendations, ai]
 excerpt: "The future of shopping isn't about delegating decisions to AI, but helping people discover what they actually want"
 ---
 
-<p class="post-subtitle">
-Why Agentic Shopping Should Enhance Discovery, Not Replace It
-</p>
+<p class="post-subtitle">Why Agentic Shopping Should Enhance Discovery, Not Replace It</p>
 
 The term *agentic commerce* is often equated with fully autonomous shopping experiences: systems that search, compare, negotiate, and complete purchases on our behalf.  That future may prove valuable for highly utilitarian tasks—reordering household essentials, replacing a broken appliance, or finding the cheapest flight. But much of what we consider shopping is not a task to be outsourced; it is an experience people actively enjoy.
 
