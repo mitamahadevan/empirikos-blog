@@ -26,7 +26,7 @@ At the same time, personalization and user journey modeling enabled discovery ex
 
 As in the offline world, many online shopping journeys are not about retrieving a known answer. Users often discover what they want through exploration. Preferences emerge gradually, and taste becomes clearer through exposure, comparison, and elimination. Saving an item, zooming in on a visual style, refining a recommendation, or dismissing an option all reveal evolving preferences. Similarly, the actions users take within search results can initiate further discovery, prompting comparison, exploration of adjacent possibilities, and the refinement of taste.
 
-As systems gain access to richer session context, longer-term preference signals, and conversational memory, shopping experiences should evolve from being a linear progression from discovery, search to purchase. Instead, they must support continuous interaction loops in which explicit queries, implicit behaviors, and multimodal inputs jointly inform an evolving understanding of user intent.
+As systems gain access to richer session context, longer-term preference signals, and conversational memory, shopping experiences can no longer be designed as a linear progression from discovery to search to purchase. Instead, they must support continuous interaction loops in which explicit queries, implicit behaviors, and multimodal inputs jointly inform an evolving understanding of user intent.
 
 ## The Query Is Not the Mission
 
@@ -38,4 +38,4 @@ As the user repeatedly engages with walnut finishes, dismisses glass styles, gra
 
 LLMs and multimodal AI capabilities make richer interaction loops possible at scale. But the opportunity is not simply to add conversational interfaces to shopping experiences. It is to fundamentally rethink both how commerce systems model intent and how user experiences evolve beyond static browse and search paradigms.
 
-The goal of agentic shopping is not to eliminate the journey altogether, but to make it more informed, adaptive, and enjoyable while helping users build confidence in their decisions. The future of AI-powered shopping will not be defined by building better chatbots, but by reimagining how people discover, express, refine, and ultimately realize what they want.
+The goal is not to eliminate the journey altogether, but to make it more informed, adaptive, and enjoyable while helping users build confidence in their decisions. The future of AI-powered shopping will not be defined by building better chatbots, but by reimagining how people discover, express, refine, and ultimately realize what they want.
