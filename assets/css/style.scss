@@ -6,21 +6,33 @@
 /* Typography */
 body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  line-height: 1.75;
 }
 
-/* Post headings */
-.post-content h1 {
-  font-size: 1.9rem;
+/* Post title */
+.post-title {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-bottom: 0.5rem;
 }
 
+/* Section headings */
 .post-content h2 {
-  font-size: 1.45rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.post-content h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
   margin-top: 2rem;
   margin-bottom: 0.75rem;
 }
 
-.post-content h3 {
-  font-size: 1.2rem;
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
+/* Body text */
+.post-content p {
+  font-size: 1.08rem;
 }
