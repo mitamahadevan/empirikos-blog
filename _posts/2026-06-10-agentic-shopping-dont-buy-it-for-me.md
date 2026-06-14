@@ -12,7 +12,7 @@ excerpt: "The future of shopping isn't about delegating decisions to AI, but hel
 
 The term *agentic commerce* is often equated with fully autonomous shopping experiences: systems that search, compare, negotiate, and complete purchases on our behalf.  That future may prove valuable for highly utilitarian tasks—reordering household essentials, replacing a broken appliance, or finding the cheapest flight. But much of what we consider shopping is not a task to be outsourced; it is an experience people actively enjoy.
 
-This distinction matters because even today, the majority of retail spending still happens in physical stores—environments designed around browsing, discovery, and inspiration as much as efficiency. Digital commerce has historically optimized for convenience and conversion. The next generation of AI-powered shopping presents an opportunity to bring more of the richness of offline discovery into online experiences.
+This distinction matters because even today, the majority of retail spending still happens in physical stores—environments designed around browsing, discovery, and inspiration as much as efficiency. Digital commerce has historically optimized for convenience and conversion. The next generation of AI-powered shopping presents an opportunity to bring more of the richness of discovery into online experiences.
 
 ## Browse vs. Search
 
