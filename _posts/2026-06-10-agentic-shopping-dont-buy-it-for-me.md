@@ -8,7 +8,7 @@ tags: [agentic shopping, commerce, search, recommendations, ai]
 excerpt: "The future of shopping isn't about delegating decisions to AI, but helping people discover what they actually want"
 ---
 
-*Why Agentic Capabilities Should Enhance Shopping Experiences, Not Replace Them*
+*Why Agentic Capabilities Should Enhance Discovery and Shopping, Not Replace It*
 
 The term *agentic commerce* is often equated with fully autonomous shopping experiences: systems that search, compare, negotiate, and complete purchases on our behalf.  That future may prove valuable for highly utilitarian tasks—reordering household essentials, replacing a broken appliance, or finding the cheapest flight. But much of what we consider shopping is not a task to be outsourced; it is an experience people actively enjoy.
 
@@ -18,14 +18,15 @@ This distinction matters because even today, the majority of retail spending sti
 
 In physical retail environments, discovery and search naturally coexist. A shopper may enter a store with only a vague objective, browse different styles and possibilities, narrow preferences through comparison, ask for specific items, and continue exploring before ultimately making a decision. Exploration and retrieval occur as part of the same journey.
 
-Digital commerce evolved differently. Historically, browse and search emerged as distinct experiences, driven in part by technical limitations. Search systems optimized for explicit intent expressed through queries, while browse experiences relied on categories, merchandising, and recommendation systems to facilitate exploration. Many retail experiences continue to reflect this separation through distinct home feed, category based browse, and search surfaces.
+Digital commerce evolved differently. Historically, browse and search emerged as distinct experiences, driven in part by technical limitations. Search systems optimized for explicit intent expressed through queries, while browse experiences relied on categories, merchandising, and recommendation systems to facilitate exploration. Many retail experiences continue to reflect this separation through distinct home feeds, category based browse, and search surfaces.
 
 Over the past decade, online search systems evolved from lexical retrieval toward semantic understanding of expressed intent. Through embeddings and advances in representation learning, we became dramatically better at interpreting user intent, improving precision and recall beyond literal keyword matching. Yet even as interactions expanded beyond text to include images, voice, and other modalities, these advances remained constrained by a fundamental assumption: that users could clearly express what they wanted.
+
 At the same time, personalization and user journey modeling enabled discovery experiences to learn from long-term preferences and behavioral patterns, improving the relevance of the products and content presented to users. Search became better at understanding explicit intent, while discovery systems became better at anticipating preferences. Yet these capabilities largely evolved in parallel, without addressing the fundamentally interconnected nature of shopping, where exploration shapes intent and intent continually redirects exploration.
 
-As in the offlibe world, many online shopping journeys are not about retrieving a known answer. Users often discover what they want through exploration - preferences emerge gradually, and taste becomes clearer through exposure, comparison, and elimination. Saving an item, a closeup view on a visual style, refining a recommendation, or dismissing an option all reveal evolving preferences. Similarly, the actions users take within search results can initiate further discovery, prompting comparison, exploration of adjacent possibilities, and the refinement of taste.
+As in the offline world, many online shopping journeys are not about retrieving a known answer. Users often discover what they want through exploration. Preferences emerge gradually, and taste becomes clearer through exposure, comparison, and elimination. Saving an item, zooming in on a visual style, refining a recommendation, or dismissing an option all reveal evolving preferences. Similarly, the actions users take within search results can initiate further discovery, prompting comparison, exploration of adjacent possibilities, and the refinement of taste.
 
-As systems gain access to richer session context, longer-term preference signals, and conversational memory, shopping experiences should evolved from being a linear progression from discovery, search to purchase. Instead, they must support continuous interaction loops in which explicit queries, implicit behaviors, and multimodal inputs jointly inform an evolving understanding of user intent.
+As systems gain access to richer session context, longer-term preference signals, and conversational memory, shopping experiences should evolve from being a linear progression from discovery, search to purchase. Instead, they must support continuous interaction loops in which explicit queries, implicit behaviors, and multimodal inputs jointly inform an evolving understanding of user intent.
 
 ## The Query Is Not the Mission
 
