@@ -14,12 +14,10 @@ The term *agentic commerce* is often equated with fully autonomous shopping expe
 
 Many shopping journeys begin with inspiration rather than certainty. We browse without a precise destination, collecting ideas, refining tastes, and imagining possibilities before narrowing our options. The process is shaped by aspiration, identity, context, and emotion as much as by functional need or budget. The journey itself is not friction to eliminate, but often a source of joy and value.
 
-## Search and Intent
-
-Over the past decade, search systems evolved from lexical retrieval toward semantic understanding of expressed intent. Through embeddings and advances in representation learning, we became dramatically better at interpreting user intent, improving precision and recall beyond literal keyword matching. Yet even as interactions expanded beyond text to include images, voice, and other modalities, these advances remained constrained by a fundamental assumption: that users could clearly articulate what they wanted.
-However, many shopping journeys are not about retrieving a known answer; users often discover what they want through exploration. Preferences emerge gradually, and taste becomes clearer through exposure, comparison, and elimination. The fully autonomous narrative misses a critical aspect of shopping: *intent is often not predefined* but evolves through inspiration, discovery, and refinement.  
-
 ## Browse vs. Search
+
+Over the past decade, search systems evolved from lexical retrieval toward semantic understanding of expressed intent. Through embeddings and advances in representation learning, we became dramatically better at interpreting user intent, improving precision and recall beyond literal keyword matching. Yet even as interactions expanded beyond text to include images, voice, and other modalities, these advances remained constrained by a fundamental assumption: that users could clearly articulate what they wanted. Many shopping journeys, however, are not about retrieving a known answer. Users often discover what they want through exploration. Preferences emerge gradually, and taste becomes clearer through exposure, comparison, and elimination. The fully autonomous narrative misses a critical aspect of shopping: *intent is often not predefined* but evolves through inspiration, discovery, and refinement.  
+
 To accommodate these different modes of intent, digital commerce evolved around two distinct paradigms: browse surfaces, where users explored and refined preferences, and search surfaces, where they explicitly expressed intent. Many retail experiences reflect this distinction through separate home, category, and search journeys, each optimized for a different stage of decision-making.
 
 That boundary is increasingly blurring. Saving an item, lingering on a visual style, refining a recommendation, or dismissing an option all reveal evolving preferences. Similarly, the actions users take within search results can initiate further discovery, prompting comparison, exploration of adjacent possibilities, and the refinement of taste.
